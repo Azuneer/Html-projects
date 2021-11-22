@@ -9,3 +9,19 @@ p
  margin-top: 50px;
  overflow: auto;
 }
+
+.p
+{
+	border: 1px solid black;
+}
+
+.conteneur
+{
+	border: 1px solid black;
+}
+
+.element1, .element2, .element3
+{
+	background-color: orange;
+	margin: auto;
+}

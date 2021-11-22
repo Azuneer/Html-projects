@@ -1,0 +1,36 @@
+h1
+{
+ color: orange;
+ text-align: center;
+ text-shadow: 2px 2px 2px orange;
+ border: 4px orange outset;
+ background: rgba(0, 0, 0, .5)
+}
+
+#conteneur
+{
+ border: 2px black solid;
+ display: flex;
+ flex-direction: column-reverse;
+}
+
+.element1
+{
+ width: 60px;
+ background-color: orange;
+ padding: 15px;
+}
+
+.element2
+{
+ background-color: green;
+ width: 60px;
+ padding: 15px;
+}
+
+.element3
+{
+ background-color: blue;
+ width: 60px;
+ padding: 15px;
+}
