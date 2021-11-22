@@ -1,0 +1,32 @@
+.experience, .formations, .competences
+{
+ font-size: 1.4em;
+ text-shadow: 2px 2px 4px black;
+ text-decoration: underline;
+}
+
+.patissier
+{
+ color: green;
+ text-align: center;
+}
+
+.profil
+{
+ font-size: 1.6em;
+ text-decoration: underline;
+ text-shadow: 2px 2px 4px black;
+}
+
+h1, h2
+{
+ border: 4px black outset;
+ box-shadow: 4px 4px 4px black;
+ text-shadow: 2px 2px 4px black;
+}
+
+body
+{
+ background-image: url("snow.jpg");
+ background-attachment: fixed; /* Le fond restera fixe */
+}
